@@ -36,30 +36,34 @@ function App() {
             </tr>
           </tbody>
         </div>
-        <tbody>
-          <tr>
-            <th>Name</th>
-            <th>Gender</th>
-            <th>Age</th>
-          </tr>
-          <tr>
-            <td>Alice</td>
-            <td>male</td>
-            <td>50</td>
-          </tr>
-        </tbody>
-        <tbody>
-          <tr>
-            <th>Name</th>
-            <th>Gender</th>
-            <th>Age</th>
-          </tr>
-          <tr>
-            <td>Aueboon Ruanekamfu 620612170</td>
-            <td>male</td>
-            <td>19</td>
-          </tr>
-        </tbody>
+        <div>
+          <tbody>
+            <tr>
+              <th>Name</th>
+              <th>Gender</th>
+              <th>Age</th>
+            </tr>
+            <tr>
+              <td>Alice</td>
+              <td>male</td>
+              <td>50</td>
+            </tr>
+          </tbody>
+        </div>
+        <div>
+          <tbody>
+            <tr>
+              <th>Name</th>
+              <th>Gender</th>
+              <th>Age</th>
+            </tr>
+            <tr>
+              <td>Aueboon Ruanekamfu 620612170</td>
+              <td>male</td>
+              <td>19</td>
+            </tr>
+          </tbody>
+        </div>
       </table>
 
       {/* Code me please! */}

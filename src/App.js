@@ -9,6 +9,11 @@ function App() {
       name: "Alice",
       gender: "male",
       age: "20"
+    },
+    {
+      name: "Aueboon Ruanekamfu 620612170",
+      gender: "male",
+      age: "19"
     }
   ];
   return (
@@ -27,6 +32,30 @@ function App() {
             <td>Bob</td>
             <td>male</td>
             <td>50</td>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Age</th>
+          </tr>
+          <tr>
+            <td>Alice</td>
+            <td>male</td>
+            <td>50</td>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Age</th>
+          </tr>
+          <tr>
+            <td>Aueboon Ruanekamfu 620612170</td>
+            <td>male</td>
+            <td>19</td>
           </tr>
         </tbody>
       </table>
